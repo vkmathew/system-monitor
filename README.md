@@ -6,7 +6,9 @@ A simple Python script that prints CPU, memory, and disk usage every few seconds
 
 Install dependency:
 pip install psutil
+
 Run the script:
 python system_monitor.py
+
 Press `Ctrl + C` to stop.
 
