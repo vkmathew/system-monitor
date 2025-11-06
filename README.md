@@ -12,3 +12,4 @@ python system_monitor.py
 
 Press `Ctrl + C` to stop.
 
+Copy Right - Vinu Mathew
